@@ -22,5 +22,7 @@ public class Employee {
 	public void setEmployeeMobile(long employeeMobile) {
 		this.employeeMobile = employeeMobile;
 	}
-
+public static void main(String[] args) {
+	System.out.println("hello");
+}
 }
